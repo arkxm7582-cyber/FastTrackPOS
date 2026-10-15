@@ -1,0 +1,11 @@
+build/
+dist/
+nbproject/private/
+*.class
+*.jar
+
+# Generated shipment PDFs from local runs
+pdf/
+pdf5
+3
+generated PDF
